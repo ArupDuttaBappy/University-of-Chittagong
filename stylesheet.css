@@ -44,7 +44,7 @@ color:white;
 	font-family: italic;
 	font-size: 20px;
 	color:white;
-	background-image: url('../A html resources/library.jpg');
+	background-image: url('library.jpg');
 	min-height:400px;
 	background-attachment: fixed;
   background-size: 100% 100%;
